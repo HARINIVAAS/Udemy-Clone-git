@@ -8,6 +8,6 @@ Features 🌟Responsive Layout: Adapts to various screen sizes, ensuring a seaml
 
 🌟HTML5: For structuring the content of the web pages. 🌟CSS3: For styling, including the use of Flexbox for responsive layouts.
 
-DEMO:🚀https://harinivaas.github.io/Udemy-Clone/
+DEMO:🚀
 
 THANK YOU FOR VISITING MY UDEMY CLONE!
